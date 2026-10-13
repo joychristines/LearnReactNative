@@ -10,8 +10,11 @@
     "test": "jest"
   },
   "dependencies": {
+    "axios": "^1.20.0",
     "react": "18.3.1",
-    "react-native": "0.77.0"
+    "react-native": "0.77.0",
+    "react-native-dotenv": "^5.0.0",
+    "react-native-image-picker": "^8.2.1"
   },
   "devDependencies": {
     "@babel/core": "^7.25.2",
